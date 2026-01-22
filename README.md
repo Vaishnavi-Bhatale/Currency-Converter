@@ -1,0 +1,46 @@
+# 💱 Currency Converter Web App
+
+🔗 **Live Project:**  
+https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/
+
+A responsive **Currency Converter** web application built using **HTML, CSS, and JavaScript**. The app fetches real-time exchange rates from a public currency API, supports dynamic currency selection with country flags, and efficiently handles the updated API format for accurate and reliable conversions.
+
+## ✨ Features
+- Real-time currency conversion
+- Supports multiple international currencies
+- Dynamic dropdown with country flags
+- Updated API format handling
+- Clean and responsive UI
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- Currency API by Fawaz Ahmed  
+
+## 📌 API Used
+```
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/{base}.json
+```
+
+## 📂 Project Structure
+```
+├── index.html
+├── style.css
+├── app.js
+├── codes.js
+└── README.md
+```
+
+## 📦 How to Run Locally
+1. Clone the repository  
+   ```
+   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+   ```
+2. Open `index.html` in your browser  
+
+## 👩‍💻 Author
+**Vaishnavi Bhatale**
+
+## 📄 License
+This project is open source and free to use for learning and educational purposes.
