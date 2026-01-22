@@ -1,7 +1,6 @@
 # 💱 Currency Converter Web App
 
-🔗 **Live Project:**  
-https://vaishnavi-bhatale.github.io/Currency-Converter/
+🔗 **Live Project:**  [Currency Converter](https://vaishnavi-bhatale.github.io/Currency-Converter/)
 
 A responsive **Currency Converter** web application built using **HTML, CSS, and JavaScript**. The app fetches real-time exchange rates from a public currency API, supports dynamic currency selection with country flags, and efficiently handles the updated API format for accurate and reliable conversions.
 
