@@ -35,7 +35,7 @@ https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/{bas
 ## 📦 How to Run Locally
 1. Clone the repository  
    ```
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+   git clone https://github.com/vaishnavi-bhatale/Currency-Converter.git
    ```
 2. Open `index.html` in your browser  
 
